@@ -1,6 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "hello",
+        "text": "buio\n",
+        "id": "676132ee-396f-4288-8a38-2c9ce3023b93"
+    },
+    {
+        "title": "This is a note",
+        "text": "Hey@",
+        "id": "d211c2d5-b478-4340-96f0-a570edcb9d11"
+    },
+    {
+        "title": "Here is another note!",
+        "text": "I can write cool stuff here and save it to the backend",
+        "id": "2bae4e65-d640-4b04-9eb3-7871ffedb17e"
     }
 ]

@@ -19,28 +19,22 @@ body {
 .note-textarea,
 .note-title {
   color: #000000;
+  width: 100%;
   outline: none;
   border: none;
 }
 
 .note-textarea {
   resize: none;
-  max-width: 50ch;
+  height: calc(100% - 63px);
   padding-top: 15px;
-  min-height:min-content;
 }
 
 .note-title {
-  max-width: 25ch;
+  height: 50px;
   margin-top: 13px;
   font-size: 3rem;
 }
-
-.note-title:focus,
-.note-textarea:focus {
-  background-color: #75757510;
-}
-
 
 .note-title:read-only,
 .note-textarea:read-only {
